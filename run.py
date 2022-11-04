@@ -1,0 +1,2 @@
+import Demon
+Demon.main()
