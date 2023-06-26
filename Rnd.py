@@ -1,4 +1,4 @@
-# Encoded By : MAHADI HASAN AFRIDI
+# Encoded By : DEMON-K1NG
 # Encryption : Py3 Marshal
 # Py3 Version : 3.11
 
