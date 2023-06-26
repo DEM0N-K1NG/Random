@@ -1,2 +1,0 @@
-import Demon
-Demon.main()
